@@ -4,4 +4,4 @@ I did some heavy searches of words within the word search and found no luck. I t
 
 So from these hints, I found out the flag to be newspaper.
 
-<b> Flag: </b> newspaper
+<b><i> Flag:</i> newspaper</b>
